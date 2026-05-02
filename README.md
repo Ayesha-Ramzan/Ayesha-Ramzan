@@ -1,5 +1,11 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&reversal=true&text=Ayesha%20Ramzan&fontSize=67&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FDC5B1"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Ayesha%20Ramzan&fontSize=67&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=twinkling&textBg=false&color=0:F4B8C1,50:E8A0A8,100:D4707A" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&pause=1000&color=E4A2AF&center=true&vCenter=true&width=550&lines=Hey!+I'm+Ayesha+Ramzan+%F0%9F%8C%BF;BSCS+Student+%7C+Lahore%2C+PK;Learning+Python+%E2%80%A2+Agentic+AI+%E2%80%A2+ML+%26+DL;Passionate+about+Creativity+%26+Technology+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 ###
@@ -69,7 +75,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayesha-Ramzan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayesha-Ramzan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F7C5D0,50:E4A2AF,100:D47A8A" />
+</div>
