@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Ayesha%20Ramzan&fontSize=67&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=fadeIn&textBg=false&color=0:F2A4A4,40:E8857A,100:D46B5A" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Ayesha%20Ramzan&fontSize=67&fontColor=FFF5F0&fontAlign=50&fontAlignY=50&animation=fadeIn&textBg=false&color=0:D4856A,40:C06A52,100:8B3A2A" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&pause=1000&color=E4A2AF&center=true&vCenter=true&width=550&lines=Hey!+I'm+Ayesha+Ramzan+%F0%9F%8C%BF;BSCS+Student+%7C+Lahore%2C+PK;Learning+Python+%E2%80%A2+Agentic+AI+%E2%80%A2+ML+%26+DL;Passionate+about+Creativity+%26+Technology+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&pause=1000&color=D4856A&center=true&vCenter=true&width=550&lines=Hey!+I'm+Ayesha+Ramzan+%F0%9F%8C%BF;BSCS+Student+%7C+Lahore%2C+PK;Learning+Python+%E2%80%A2+Agentic+AI+%E2%80%A2+ML+%26+DL;Passionate+about+Creativity+%26+Technology+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 ###
@@ -82,5 +82,5 @@
 ###
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:D46B5A,50:E8857A,100:F2A4A4" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B3A2A,50:C06A52,100:D4856A" />
 </div>
