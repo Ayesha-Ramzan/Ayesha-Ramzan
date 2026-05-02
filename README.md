@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Ayesha%20Ramzan&fontSize=67&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=twinkling&textBg=false&color=0:F4B8C1,50:E8A0A8,100:D4707A" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Ayesha%20Ramzan&fontSize=67&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=fadeIn&textBg=false&color=0:F2A4A4,40:E8857A,100:D46B5A" />
 </div>
 
 ###
@@ -82,5 +82,5 @@
 ###
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F7C5D0,50:E4A2AF,100:D47A8A" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:D46B5A,50:E8857A,100:F2A4A4" />
 </div>
