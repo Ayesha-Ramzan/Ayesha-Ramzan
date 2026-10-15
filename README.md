@@ -5,12 +5,20 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&pause=1000&color=D4856A&center=true&vCenter=true&width=550&lines=Hey!+I'm+Ayesha+Ramzan+%F0%9F%8C%BF;BSCS+Student+%7C+Lahore%2C+PK;Learning+Python+%E2%80%A2+Agentic+AI+%E2%80%A2+ML+%26+DL;Passionate+about+Creativity+%26+Technology+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&pause=1000&color=D4856A&center=true&vCenter=true&width=550&lines=Hey!+I'm+Ayesha+Ramzan+%F0%9F%8C%BF;AI+Engineer+%26+Full-Stack+Developer;Agentic+AI+%E2%80%A2+LLM+Apps+%E2%80%A2+Web+Apps;BSCS+Student+%7C+Lahore%2C+PK" alt="Typing SVG" />
 </div>
 
 ###
 
-<h4 align="left">_Hey! I'm Ayesha Ramzan <br>_BSCS student  <br>_Learning Python • Agentic AI • ML & DL<br>_Passionate about creativity & technology🖥️</h4>
+<h4 align="left">_Hey! I'm Ayesha Ramzan <br>_AI Engineer & Full-Stack Developer · BSCS student<br>_I build AI agents, chatbots, WhatsApp automations and full-stack web apps<br>_Developer at Gobind Trades, building GTOS<br>_Passionate about creativity & technology🖥️</h4>
+
+###
+
+<div align="center">
+  <a href="https://ayesha-ramzan.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=View%20my%20portfolio&logo=vercel&label=&color=D61F2C&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="portfolio" />
+  </a>
+</div>
 
 ###
 
@@ -18,6 +26,18 @@
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="37" alt="html5 logo"  />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="37" alt="python logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="37" alt="javascript logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="37" alt="typescript logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="37" alt="react logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="37" alt="fastapi logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="37" alt="postgresql logo"  />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="37" alt="docker logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=ai" height="37" alt="adobeillustrator logo"  />
   <img width="14" />
@@ -50,6 +70,19 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="left">Featured projects</h3>
+
+| Project | What it is | Live |
+|---|---|---|
+| [Restaurant WA Order Bot](https://github.com/Ayesha-Ramzan/Restaurant-WA-Order-Bot) | WhatsApp ordering bot with menu, orders & payments | — |
+| [JARVIS AI COO](https://github.com/Ayesha-Ramzan/Jarvis-AI-COO) | Multi-tenant FastAPI backend for AI skills, 66 tests | — |
+| [Mehfil Restaurant](https://github.com/Ayesha-Ramzan/Mehfil-Restaurant-Lahore) | Editorial restaurant website (React + TypeScript) | [Visit](https://mehfil-restaurant-lahore.vercel.app) |
+| [Mealio Bite & Bliss](https://github.com/Ayesha-Ramzan/Mealio_Bite-_Bliss) | Halal food delivery landing page | [Visit](https://mealio-bite-bliss.vercel.app) |
+| [Habit Tracker](https://github.com/Ayesha-Ramzan/Habit-Tracker) | Habits, streaks & charts in the browser | [Visit](https://myproject-habit-tracker.vercel.app) |
+| [Dar-ul-Falah](https://github.com/Ayesha-Ramzan/Dar-ul-Falah-App) | Prayer & Quran companion PWA | [Visit](https://dar-ul-falah-app.vercel.app) |
 
 ###
 
