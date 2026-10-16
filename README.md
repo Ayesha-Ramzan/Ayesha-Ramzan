@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F3533,45:7A5C48,80:C98A72,100:F6D3C6&fontColor=FFF8F2&height=250&section=header&text=Ayesha%20Ramzan&fontSize=70&fontAlign=50&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlign=50&descAlignY=65&animation=twinkling" width="100%" />
+<img src="./header.svg" alt="Ayesha Ramzan — AI Engineer · Full-Stack Developer" width="100%" />
 
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg">
@@ -189,5 +189,5 @@
 
 <!--Footer-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F3533,50:C98A72,100:F6D3C6&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8604A,50:6E3B30,100:1C1211&height=90&section=footer"/>
 </p>

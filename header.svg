@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A100F"/>
+      <stop offset=".45" stop-color="#341F1B"/>
+      <stop offset=".8" stop-color="#5A2E26"/>
+      <stop offset="1" stop-color="#7A3E31"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".78" cy=".1" r=".55">
+      <stop offset="0" stop-color="#E8A386" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#E8A386" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx=".12" cy="1" r=".5">
+      <stop offset="0" stop-color="#C98A72" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#C98A72" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F7D9C8"/>
+      <stop offset=".5" stop-color="#FFF4EC"/>
+      <stop offset="1" stop-color="#E9B49C"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#E9B49C" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#E9B49C"/>
+      <stop offset="1" stop-color="#E9B49C" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c"><path d="M0 0H1200V250C1050 225 920 280 760 262C600 244 470 205 300 228C190 243 90 262 0 250Z"/></clipPath>
+    <style>
+      .t{animation:fade 1.4s ease-out both}
+      .s{animation:fade 1.4s .4s ease-out both}
+      @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+      .g{animation:pulse 6s ease-in-out infinite;transform-origin:936px 30px}
+      @keyframes pulse{50%{opacity:.6}}
+    </style>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect class="g" width="1200" height="300" fill="url(#glow)"/>
+    <rect width="1200" height="300" fill="url(#glow2)"/>
+    <g stroke="#F7D9C8" stroke-opacity=".07">
+      <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+      <path d="M150 0V300M300 0V300M450 0V300M600 0V300M750 0V300M900 0V300M1050 0V300"/>
+    </g>
+    <circle cx="1040" cy="70" r="70" fill="none" stroke="#E9B49C" stroke-opacity=".25"/>
+    <circle cx="1040" cy="70" r="105" fill="none" stroke="#E9B49C" stroke-opacity=".12" stroke-dasharray="3 8"/>
+    <circle cx="970" cy="70" r="5" fill="#E9B49C"/>
+    <circle cx="160" cy="210" r="3.5" fill="#F7D9C8" fill-opacity=".7"/>
+  </g>
+  <path d="M0 250C90 262 190 243 300 228C470 205 600 244 760 262C920 280 1050 225 1200 250" fill="none" stroke="#E9B49C" stroke-opacity=".55" stroke-width="1.5"/>
+  <text class="t" x="600" y="138" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-weight="600" font-size="78" fill="url(#gold)" letter-spacing="-1">Ayesha Ramzan</text>
+  <rect class="s" x="520" y="160" width="160" height="1.5" fill="url(#line)"/>
+  <text class="s" x="600" y="196" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="5" fill="#E9B49C">AI ENGINEER · FULL-STACK DEVELOPER</text>
+</svg>
