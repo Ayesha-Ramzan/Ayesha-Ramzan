@@ -24,7 +24,7 @@
       <stop offset=".5" stop-color="#E9B49C"/>
       <stop offset="1" stop-color="#E9B49C" stop-opacity="0"/>
     </linearGradient>
-    <clipPath id="c"><path d="M0 0H1200V250C1050 225 920 280 760 262C600 244 470 205 300 228C190 243 90 262 0 250Z"/></clipPath>
+    <clipPath id="c"><path d="M0 0H1200V250C1050 225 920 280 760 262C600 244 470 205 300 228C190 243 90 262 0 250Z"><animate attributeName="d" dur="9s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.33;.66;1" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1" values="M0 0H1200V250C1050 225 920 280 760 262C600 244 470 205 300 228C190 243 90 262 0 250Z;M0 0H1200V250C1060 268 930 232 760 246C590 260 460 272 300 250C180 233 80 236 0 258Z;M0 0H1200V250C1040 240 900 262 760 270C620 278 480 226 300 238C200 245 100 250 0 244Z;M0 0H1200V250C1050 225 920 280 760 262C600 244 470 205 300 228C190 243 90 262 0 250Z"/></path></clipPath>
     <style>
       .t{animation:fade 1.4s ease-out both}
       .s{animation:fade 1.4s .4s ease-out both}
@@ -46,7 +46,7 @@
     <circle cx="970" cy="70" r="5" fill="#E9B49C"/>
     <circle cx="160" cy="210" r="3.5" fill="#F7D9C8" fill-opacity=".7"/>
   </g>
-  <path d="M0 250C90 262 190 243 300 228C470 205 600 244 760 262C920 280 1050 225 1200 250" fill="none" stroke="#E9B49C" stroke-opacity=".55" stroke-width="1.5"/>
+  <path d="M0 250C90 262 190 243 300 228C470 205 600 244 760 262C920 280 1050 225 1200 250" fill="none" stroke="#E9B49C" stroke-opacity=".55" stroke-width="1.5"><animate attributeName="d" dur="9s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.33;.66;1" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1" values="M0 250C90 262 190 243 300 228C470 205 600 244 760 262C920 280 1050 225 1200 250;M0 258C80 236 180 233 300 250C460 272 590 260 760 246C930 232 1060 268 1200 250;M0 244C100 250 200 245 300 238C480 226 620 278 760 270C900 262 1040 240 1200 250;M0 250C90 262 190 243 300 228C470 205 600 244 760 262C920 280 1050 225 1200 250"/></path>
   <text class="t" x="600" y="138" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-weight="600" font-size="78" fill="url(#gold)" letter-spacing="-1">Ayesha Ramzan</text>
   <rect class="s" x="520" y="160" width="160" height="1.5" fill="url(#line)"/>
   <text class="s" x="600" y="196" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="5" fill="#E9B49C">AI ENGINEER · FULL-STACK DEVELOPER</text>
