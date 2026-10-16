@@ -8,19 +8,18 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀʏᴇsʜᴀ!
-*AI Engineer (Full-Stack Developer)*
+*AI Engineer & Full-Stack Developer*
 <br />
 
 <!--Start Intro-->
 <p align="left">I am an AI Engineer and Full-Stack Developer with a huge love for Python, Agentic AI, FastAPI, React.js, Next.js, PostgreSQL, REST APIs and WhatsApp Automation.</p>
 
-- ✨ Student of life — BSCS student from Lahore, Pakistan :)
-- 🌱 I'm currently learning multi-agent systems; I believe every day is a learning opportunity.
-- 🏢 Developer at **Gobind Trades**, building **GTOS** — a workforce platform used on site every day.
-- 🤖 I build AI agents, chatbots, voice assistants and WhatsApp bots that get real work done.
-- 🚀 I ship full-stack web apps — from first idea all the way to production.
-- ❤ Love turning ideas into products people actually use.
-- 💻 Visit my [Portfolio](https://ayesha-ramzan.vercel.app) for more details about me.
+-  Student of life — BSCS student from Lahore, Pakistan :)
+-  I'm currently learning multi-agent systems; I believe every day is a learning opportunity.
+-  I build AI agents, chatbots, voice assistants and WhatsApp bots that get real work done.
+-  I ship full-stack web apps — from first idea all the way to production.
+-  Love turning ideas into products people actually use.
+-  Visit my [Portfolio](https://ayesha-ramzan.vercel.app) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -142,7 +141,7 @@
 
 <!--Contact Section-->
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center"> Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
 
 <a href="mailto:ayeshazubram@gmail.com" target="_blank">
