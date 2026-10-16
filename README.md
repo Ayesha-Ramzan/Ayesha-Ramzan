@@ -10,13 +10,11 @@
 
 <br><br>
 
-<img src="assets/h-stack.svg" alt="Tech stack" width="100%"/>
+<img src="assets/h-stack.svg" alt="Tech stack & learning" width="100%"/>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=py,fastapi,flask,js,ts,react,nextjs,nodejs,tailwind&theme=light&perline=9" alt="languages and frameworks"/>
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,docker,git,github,vercel,linux,figma&theme=light&perline=9" alt="tools"/>
+<img src="assets/stack.svg" alt="Tech stack: Python, React, Next.js, FastAPI, TypeScript, JavaScript, Docker, PostgreSQL, Tailwind, Node.js, Flask, Git, GitHub, Vercel, Redis, SQLite, Linux, Figma, VS Code, HTML, CSS, Bash, npm" width="100%"/>
 
 <br><br>
 
@@ -34,13 +32,24 @@
 
 <br><br><br>
 
-<img src="assets/h-activity.svg" alt="GitHub activity" width="100%"/>
+<img src="assets/h-trophies.svg" alt="Achievements" width="100%"/>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ayesha-Ramzan&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=20&bg_color=FFFDF9&title_color=3F3533&text_color=5C514D&icon_color=C98A72&card_width=430" height="170" alt="GitHub stats"/>&nbsp;<img src="https://streak-stats.demolab.com?user=Ayesha-Ramzan&hide_border=true&border_radius=20&background=FFFDF9&ring=C98A72&fire=C98A72&currStreakNum=3F3533&sideNums=3F3533&currStreakLabel=7A5C48&sideLabels=7A5C48&dates=8A7E74&stroke=EEE6DE&card_width=430" height="170" alt="Streak"/>
+<img src="assets/trophies.svg" alt="Achievements" width="100%"/>
 
 <br><br>
+
+<img src="assets/h-stats.svg" alt="GitHub stats" width="100%"/>
+
+<img src="assets/stats.svg" alt="GitHub stats" width="410"/>&nbsp;<img src="assets/languages.svg" alt="Top languages" width="410"/>
+<a href="https://github.com/Ayesha-Ramzan?tab=repositories&amp;sort=updated"><img src="assets/latest.svg" alt="Latest project" width="410"/></a>&nbsp;<img src="https://streak-stats.demolab.com?user=Ayesha-Ramzan&hide_border=true&border_radius=22&background=FFFDF9&ring=C98A72&fire=C98A72&currStreakNum=3F3533&sideNums=3F3533&currStreakLabel=7A5C48&sideLabels=7A5C48&dates=8A7E74&stroke=EEE6DE&card_width=410" width="410" height="221" alt="Streak"/>
+
+<br><br>
+
+<img src="assets/h-graph.svg" alt="Contribution graph" width="100%"/>
+
+<img src="assets/graph.svg" alt="Contribution graph" width="100%"/>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayesha-Ramzan/Ayesha-Ramzan/output/pacman-contribution-graph-dark.svg">
@@ -50,6 +59,18 @@
 
 <br><br>
 
-<a href="https://ayesha-ramzan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-3F3533?style=flat-square" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/ayesha-ramzan-9632a83ba/"><img src="https://img.shields.io/badge/LinkedIn-3F3533?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:ayeshazubram@gmail.com"><img src="https://img.shields.io/badge/Email-3F3533?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://x.com/ayesha5044"><img src="https://img.shields.io/badge/X-3F3533?style=flat-square&logo=x&logoColor=white" alt="X"/></a> <a href="https://www.instagram.com/ayesh_ramzan786/"><img src="https://img.shields.io/badge/Instagram-3F3533?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<img src="assets/h-quote.svg" alt="Thought of the day" width="100%"/>
+
+<img src="assets/quote.svg" alt="Thought of the day" width="600"/>
+
+<br><br>
+
+<img src="assets/h-connect.svg" alt="Connect with me" width="100%"/>
+
+<a href="mailto:ayeshazubram@gmail.com"><img src="assets/c-gmail.svg" alt="Email" width="84"/></a>&nbsp;<a href="https://www.linkedin.com/in/ayesha-ramzan-9632a83ba/"><img src="assets/c-linkedin.svg" alt="LinkedIn" width="84"/></a>&nbsp;<a href="https://github.com/Ayesha-Ramzan"><img src="assets/c-github.svg" alt="GitHub" width="84"/></a>&nbsp;<a href="https://www.instagram.com/ayesh_ramzan786/"><img src="assets/c-instagram.svg" alt="Instagram" width="84"/></a>&nbsp;<a href="https://x.com/ayesha5044"><img src="assets/c-x.svg" alt="X" width="84"/></a>&nbsp;<a href="https://www.facebook.com/people/AI-Yesha/pfbid02BV1wSxFjYRrLskmFwbQNG73hpmm4xTvjHymtCZyyy8QNDsV7nrQ33XX33j785wvwl/"><img src="assets/c-facebook.svg" alt="Facebook" width="84"/></a>&nbsp;<a href="https://ayesha-ramzan.vercel.app"><img src="assets/c-vercel.svg" alt="Portfolio" width="84"/></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:EFD6EE,50:FBE7D6,100:F6D3C6" alt="" width="100%"/>
 
 </div>
