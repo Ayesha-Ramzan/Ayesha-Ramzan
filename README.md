@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="./header.svg" alt="Ayesha Ramzan — AI Engineer · Full-Stack Developer" width="100%" />
+<img src="./header-wave.svg" alt="Ayesha Ramzan — AI Engineer · Full-Stack Developer" width="100%" />
 
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg">
