@@ -1,0 +1,30 @@
+name: Update Quote
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 19 * * *'  # every day at 12:00 AM Pakistan time
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Update Quote
+        run: node update-quote.js
+
+      - name: Commit and push changes
+        run: |
+          git add README.md
+          git -c user.name='Ayesha-Ramzan' -c user.email='ayeshazubram@gmail.com' commit -m "Update README with daily quote" || echo "No changes"
+          git push

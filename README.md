@@ -1,109 +1,183 @@
-<div align="center">
+<!--Banner-->
+![Ayesha-Ramzan Banner Image](./banner.png)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:C98A72,55:B98A9C,100:7A5C48&text=Ayesha%20Ramzan&fontColor=FFF6EF&fontSize=74&fontAlignY=40&desc=Building%20Agentic%20AI%2C%20One%20Product%20at%20a%20Time&descSize=20&descAlignY=60&animation=fadeIn" alt="Ayesha Ramzan" width="100%"/>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=C98A72&center=true&vCenter=true&width=640&lines=Building+Fast%2C+Smart%2C+Agentic+AI;Chatbots+%C2%B7+WhatsApp+Bots+%C2%B7+Web+Apps;From+Idea+to+Production" alt="typing intro"/>
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀʏᴇsʜᴀ!
+*AI Engineer (Full-Stack Developer)*
+<br />
 
-<p align="center">I'm <b>Ayesha Ramzan</b> — an AI Engineer &amp; Full-Stack Developer who turns ideas into products people actually use. My toolkit ranges from <b>React, Next.js and TypeScript</b> on the frontend to <b>Python, FastAPI and PostgreSQL</b> under the hood. Passionate about <b>agentic AI, LLM apps and WhatsApp automation</b>, I build assistants that don't just answer — they get real work done.</p>
+<!--Start Intro-->
+<p align="left">I am an AI Engineer and Full-Stack Developer with a huge love for Python, Agentic AI, FastAPI, React.js, Next.js, PostgreSQL, REST APIs and WhatsApp Automation.</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayesha-ramzan-9632a83ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/ayesha5044"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:ayeshazubram@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://ayesha-ramzan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7A5C48?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+- ✨ Student of life — BSCS student from Lahore, Pakistan :)
+- 🌱 I'm currently learning multi-agent systems; I believe every day is a learning opportunity.
+- 🏢 Developer at **Gobind Trades**, building **GTOS** — a workforce platform used on site every day.
+- 🤖 I build AI agents, chatbots, voice assistants and WhatsApp bots that get real work done.
+- 🚀 I ship full-stack web apps — from first idea all the way to production.
+- ❤ Love turning ideas into products people actually use.
+- 💻 Visit my [Portfolio](https://ayesha-ramzan.vercel.app) for more details about me.
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ayesha-Ramzan&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Ayesha-Ramzan" style="padding-right:20px;" />
 </p>
 
-<img src="assets/divider.svg" alt="" width="100%"/>
+---
 
+
+<!--Languages and Tools Section-->
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Rᴇᴄᴇɴᴛ ʙᴜɪʟᴅs</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="Tech stack animation: Python, React, Next.js, FastAPI, TypeScript, JavaScript, Docker, PostgreSQL, Tailwind, Node.js, Flask, Git, GitHub, Vercel, Redis, SQLite, Linux, Figma, VS Code, HTML, CSS, Bash, npm" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Building multi-agent AI systems with tool use, memory and planning.</li>
+  <li>Exploring LLM evaluation — testing prompts and measuring agent quality.</li>
+  <li>Improving my skills in cloud deployment with Docker and CI/CD.</li>
+</ul>
+
+<h3 align="left">Recent Builds</h3>
+<ul align="left">
+  <li><a href="https://ayesha-ramzan.vercel.app">🔥Portfolio: multi-page, animated, 100 accessibility score 🎨</a></li>
+  <li><a href="https://github.com/Ayesha-Ramzan/Jarvis-AI-COO">🔥JARVIS AI COO: multi-tenant FastAPI backend with 66 tests 🤖</a></li>
+  <li><a href="https://github.com/Ayesha-Ramzan/Restaurant-WA-Order-Bot">Restaurant WhatsApp Order Bot: menu, orders &amp; payments 🍽️</a></li>
+</ul>
+<br />
+<br />
+<br />
+<br />
+
+
+<!--Trophies Section-->
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/Ayesha-Ramzan">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Ayesha-Ramzan&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Ayesha-Ramzan&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Ayesha-Ramzan&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Ayesha-Ramzan">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/Ayesha-Ramzan/achievements?format=svg&limit=6"
+      width="400"
+    />
+  </a>
+</p>
+<br />
+
+<!--Github stats Table-->
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Ayesha-Ramzan">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Ayesha-Ramzan&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Ayesha-Ramzan">
+          <img align="center" src="https://streak-stats.demolab.com/?user=Ayesha-Ramzan&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Ayesha-Ramzan/Jarvis-AI-COO">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Ayesha-Ramzan&repo=Jarvis-AI-COO&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Jarvis-AI-COO" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Ayesha-Ramzan">
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Ayesha-Ramzan&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://activity-graph-kappa.vercel.app/graph?username=Ayesha-Ramzan&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
-<br>
+---
 
-<img align="right" width="34%" src="assets/avatar.png" alt="Illustrated portrait of Ayesha Ramzan"/>
+<!--Dynamic Quote card updates everyday at 12 AM-->
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-<h2>ɪ'ᴍ ᴀʏᴇsʜᴀ!</h2>
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=Great%20things%20are%20done%20by%20a%20series%20of%20small%20things%20brought%20together.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
 
-<i>AI Engineer · Full-Stack Developer · BSCS Student</i>
+<!--Contact Section-->
 
-<p>I design <b>agentic AI systems</b> — assistants that understand a request, decide the next step, call tools and finish the job — and wrap them in fast, clean full-stack products.</p>
-
-- Currently building **GTOS**, a workforce platform, at **Gobind Trades**
-- Building AI agents, chatbots and **WhatsApp automations** for real businesses
-- Shipping web apps with **React, Next.js, FastAPI and PostgreSQL**
-- Learning something new every day — currently multi-agent systems
-- Visit my [**portfolio**](https://ayesha-ramzan.vercel.app) for the full story
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Ayesha-Ramzan&label=Profile%20views&color=C98A72&style=for-the-badge" alt="Profile views"/></p>
-
-<br clear="right"/>
-
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
 
-<br>
+<a href="mailto:ayeshazubram@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="ayeshazubram@gmail.com" style="margin-bottom: 5px;" />
+</a>
 
-<img src="assets/h-stack.svg" alt="Tech stack & learning" width="100%"/>
+<a href="https://x.com/ayesha5044" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="ayesha5044" style="margin-bottom: 5px;" />
+</a>
 
-<br>
+<a href="https://www.instagram.com/ayesh_ramzan786/" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="ayesh_ramzan786" style="margin-bottom: 5px;" />
+</a>
 
-<img src="assets/stack.svg" alt="Tech stack: Python, React, Next.js, FastAPI, TypeScript, JavaScript, Docker, PostgreSQL, Tailwind, Node.js, Flask, Git, GitHub, Vercel, Redis, SQLite, Linux, Figma, VS Code, HTML, CSS, Bash, npm" width="100%"/>
+<a href="https://github.com/Ayesha-Ramzan" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Ayesha-Ramzan" style="margin-bottom: 5px;" />
+</a>
 
-<br><br>
+<a href="https://www.linkedin.com/in/ayesha-ramzan-9632a83ba/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
 
-<img src="assets/h-work.svg" alt="Featured work" width="100%"/>
-
-<br>
-
-<a href="https://gtos-employee.srv1763060.hstgr.cloud/welcome"><img src="assets/p01.svg" alt="GTOS — Workforce Platform" width="410"/></a>&nbsp;<a href="https://github.com/Ayesha-Ramzan/Restaurant-WA-Order-Bot"><img src="assets/p02.svg" alt="WhatsApp Order Bot" width="410"/></a>
-<a href="https://github.com/Ayesha-Ramzan/Jarvis-AI-COO"><img src="assets/p03.svg" alt="JARVIS AI COO" width="410"/></a>&nbsp;<a href="https://github.com/Ayesha-Ramzan/J.A.R.V.I.S.-AI-Voice-Assistant"><img src="assets/p04.svg" alt="J.A.R.V.I.S. Assistant" width="410"/></a>
-<a href="https://mehfil-restaurant-lahore.vercel.app"><img src="assets/p05.svg" alt="Mehfil Restaurant" width="410"/></a>&nbsp;<a href="https://myproject-habit-tracker.vercel.app"><img src="assets/p06.svg" alt="Habit Tracker" width="410"/></a>
-
-<br><br>
-
-<a href="https://ayesha-ramzan.vercel.app/work.html"><img src="https://img.shields.io/badge/See%20every%20project-on%20my%20portfolio%20%E2%86%92-3F3533?style=for-the-badge&labelColor=C98A72" alt="See every project"/></a>
-
-<br><br><br>
-
-<img src="assets/h-trophies.svg" alt="Achievements" width="100%"/>
-
-<img src="assets/trophies.svg" alt="Achievements" width="100%"/>
-
-<br><br>
-
-<img src="assets/h-stats.svg" alt="GitHub stats" width="100%"/>
-
-<img src="assets/stats.svg" alt="GitHub stats" width="410"/>&nbsp;<img src="assets/languages.svg" alt="Top languages" width="410"/>
-<a href="https://github.com/Ayesha-Ramzan?tab=repositories&amp;sort=updated"><img src="assets/latest.svg" alt="Latest project" width="410"/></a>&nbsp;<img src="https://streak-stats.demolab.com?user=Ayesha-Ramzan&hide_border=true&border_radius=22&background=FFFDF9&ring=C98A72&fire=C98A72&currStreakNum=3F3533&sideNums=3F3533&currStreakLabel=7A5C48&sideLabels=7A5C48&dates=8A7E74&stroke=EEE6DE&card_width=410" width="410" height="221" alt="Streak"/>
-
-<img src="https://github-repository-contribution-stat-green.vercel.app/api?username=Ayesha-Ramzan&hide_border=true&border_radius=22&bg_color=FFFDF9&title_color=3F3533&text_color=5C514D&icon_color=C98A72&combine_all_yearly_contributions=true&limit=4" height="160" alt="Top contributions"/>
-
-<br><br>
-
-<img src="assets/h-graph.svg" alt="Contribution graph" width="100%"/>
-
-<img src="assets/graph.svg" alt="Contribution graph" width="100%"/>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayesha-Ramzan/Ayesha-Ramzan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayesha-Ramzan/Ayesha-Ramzan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ayesha-Ramzan/Ayesha-Ramzan/output/pacman-contribution-graph.svg">
-</picture>
-
-<br><br>
-
-<img src="assets/h-quote.svg" alt="Thought of the day" width="100%"/>
-
-<img src="assets/quote.svg" alt="Thought of the day" width="600"/>
-
-<br><br>
-
-<img src="assets/h-connect.svg" alt="Connect with me" width="100%"/>
-
-<a href="mailto:ayeshazubram@gmail.com"><img src="assets/c-gmail.svg" alt="Email" width="84"/></a>&nbsp;<a href="https://www.linkedin.com/in/ayesha-ramzan-9632a83ba/"><img src="assets/c-linkedin.svg" alt="LinkedIn" width="84"/></a>&nbsp;<a href="https://github.com/Ayesha-Ramzan"><img src="assets/c-github.svg" alt="GitHub" width="84"/></a>&nbsp;<a href="https://www.instagram.com/ayesh_ramzan786/"><img src="assets/c-instagram.svg" alt="Instagram" width="84"/></a>&nbsp;<a href="https://x.com/ayesha5044"><img src="assets/c-x.svg" alt="X" width="84"/></a>&nbsp;<a href="https://www.facebook.com/people/AI-Yesha/pfbid02BV1wSxFjYRrLskmFwbQNG73hpmm4xTvjHymtCZyyy8QNDsV7nrQ33XX33j785wvwl/"><img src="assets/c-facebook.svg" alt="Facebook" width="84"/></a>&nbsp;<a href="https://ayesha-ramzan.vercel.app"><img src="assets/c-vercel.svg" alt="Portfolio" width="84"/></a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:EFD6EE,50:FBE7D6,100:F6D3C6" alt="" width="100%"/>
-
+<a href="https://www.facebook.com/people/AI-Yesha/pfbid02BV1wSxFjYRrLskmFwbQNG73hpmm4xTvjHymtCZyyy8QNDsV7nrQ33XX33j785wvwl/" target="_blank">
+<img src="./facebook.png" width=50 height=50 alt="facebook" style="margin-bottom: 5px;" />
+</a>
 </div>
+<br/>
+
+<!--Portfolio button (in place of Buy me a coffee)-->
+<div align="center">
+<a href="https://ayesha-ramzan.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Visit%20my%20Portfolio-ayesha--ramzan.vercel.app-c56a90?style=for-the-badge&labelColor=441350" alt="Visit my portfolio" height="40"></a>
+</div>
+
+
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
