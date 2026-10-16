@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2A44,55:153955,100:1E4A70&fontColor=F3CC74&height=250&section=header&text=Ayesha%20Ramzan&fontSize=70&fontAlign=50&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlign=50&descAlignY=65&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F3533,45:7A5C48,80:C98A72,100:F6D3C6&fontColor=FFF8F2&height=250&section=header&text=Ayesha%20Ramzan&fontSize=70&fontAlign=50&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descAlign=50&descAlignY=65&animation=twinkling" width="100%" />
 
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F3B848&width=600&lines=Building+Fast%2C+Smart%2C+Agentic+AI;Designing+Clean%2C+Modern+Web+Apps;Engineering+High-Performance+Backends;Turning+Ideas+into+Real+Products&center=true&vCenter=true&size=22" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C98A72&width=600&lines=Building+Fast%2C+Smart%2C+Agentic+AI;Designing+Clean%2C+Modern+Web+Apps;Engineering+High-Performance+Backends;Turning+Ideas+into+Real+Products&center=true&vCenter=true&size=22" alt="Typing Effect" />
 </a>
 
 </div>
@@ -35,7 +35,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ayesha-Ramzan&label=Profile%20views&color=F3B848&style=for-the-badge&logo=star&labelColor=153955" alt="Ayesha-Ramzan" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Ayesha-Ramzan&label=Profile%20views&color=C98A72&style=for-the-badge&logo=star&labelColor=3F3533" alt="Ayesha-Ramzan" style="padding-right:20px;" />
 </p>
 
 ---
@@ -99,7 +99,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Ayesha-Ramzan">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Ayesha-Ramzan&count_private=true&show_icons=true&theme=nightowl&bg_color=35,0F2A44,153955,1E4A70&title_color=F3CC74&text_color=FFFFFF&icon_color=F3B848&ring_color=F3B848&border_radius=16&hide_border=true&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Ayesha-Ramzan&count_private=true&show_icons=true&theme=nightowl&bg_color=35,2E2522,3F3533,5C4A43&title_color=F6D3C6&text_color=FFFFFF&icon_color=E9B49C&ring_color=E9B49C&border_radius=16&hide_border=true&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -107,7 +107,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Ayesha-Ramzan">
-          <img align="center" src="https://streak-stats.demolab.com/?user=Ayesha-Ramzan&theme=nightowl&background=35,0F2A44,153955,1E4A70&fire=F3B848&ring=F3B848&sideNums=FFFFFF&sideLabels=F3CC74&dates=C9D6E3&currStreakNum=FFFFFF&currStreakLabel=F3CC74&stroke=FFFFFF55&border_radius=16&hide_border=true" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com/?user=Ayesha-Ramzan&theme=nightowl&background=35,2E2522,3F3533,5C4A43&fire=F6D3C6&ring=E9B49C&sideNums=FFFFFF&sideLabels=F6D3C6&dates=D9C6BC&currStreakNum=FFFFFF&currStreakLabel=F6D3C6&stroke=FFFFFF55&border_radius=16&hide_border=true" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -117,7 +117,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Ayesha-Ramzan/Jarvis-AI-COO">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Ayesha-Ramzan&repo=Jarvis-AI-COO&theme=nightowl&show_owner=true&bg_color=35,0F2A44,153955,1E4A70&title_color=F3CC74&text_color=FFFFFF&icon_color=F3B848&border_radius=16&hide_border=true" alt="Jarvis-AI-COO" />
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Ayesha-Ramzan&repo=Jarvis-AI-COO&theme=nightowl&show_owner=true&bg_color=35,2E2522,3F3533,5C4A43&title_color=F6D3C6&text_color=FFFFFF&icon_color=E9B49C&border_radius=16&hide_border=true" alt="Jarvis-AI-COO" />
         </a>
       </p>
     </td>
@@ -125,7 +125,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/Ayesha-Ramzan">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Ayesha-Ramzan&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=35,0F2A44,153955,1E4A70&title_color=F3CC74&text_color=FFFFFF&icon_color=F3B848&hide_border=true&border_radius=16" alt="Top Repo" />
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Ayesha-Ramzan&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=35,2E2522,3F3533,5C4A43&title_color=F6D3C6&text_color=FFFFFF&icon_color=E9B49C&hide_border=true&border_radius=16" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -136,7 +136,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://activity-graph-kappa.vercel.app/graph?username=Ayesha-Ramzan&bg_color=153955&color=FFFFFF&line=F3B848&point=F3CC74&area=true&area_color=F3B848&hide_border=true&radius=16" border-radius="15">
+    <img src="https://activity-graph-kappa.vercel.app/graph?username=Ayesha-Ramzan&bg_color=3F3533&color=FFF8F2&line=E9B49C&point=F6D3C6&area=true&area_color=C98A72&hide_border=true&radius=16" border-radius="15">
 </div>
 
 ---
@@ -146,7 +146,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=Do%20what%20you%20can%2C%20with%20what%20you%20have%2C%20where%20you%20are.&theme=dark&bg_color=153955&author_color=F3B848&accent_color=F3CC74">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=Do%20what%20you%20can%2C%20with%20what%20you%20have%2C%20where%20you%20are.&theme=dark&bg_color=3F3533&author_color=E9B49C&accent_color=F6D3C6">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
@@ -183,11 +183,11 @@
 
 <!--Portfolio button (in place of Buy me a coffee)-->
 <div align="center">
-<a href="https://ayesha-ramzan.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Visit%20my%20Portfolio-ayesha--ramzan.vercel.app-F3B848?style=for-the-badge&labelColor=153955" alt="Visit my portfolio" height="40"></a>
+<a href="https://ayesha-ramzan.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Visit%20my%20Portfolio-ayesha--ramzan.vercel.app-C98A72?style=for-the-badge&labelColor=3F3533" alt="Visit my portfolio" height="40"></a>
 </div>
 
 
 <!--Footer-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2A44,60:153955,100:F3B848&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F3533,50:C98A72,100:F6D3C6&height=90&section=footer"/>
 </p>
