@@ -14,10 +14,10 @@
 <!--Start Intro-->
 <p align="left">I am an AI Engineer and Full-Stack Developer with a huge love for Python, Agentic AI, FastAPI, React.js, Next.js, PostgreSQL, REST APIs and WhatsApp Automation.</p>
 
--  Student of life — BSCS student from Lahore, Pakistan :)
+-  Student of life-BSCS student from Lahore, Pakistan :)
 -  I'm currently learning multi-agent systems; I believe every day is a learning opportunity.
 -  I build AI agents, chatbots, voice assistants and WhatsApp bots that get real work done.
--  I ship full-stack web apps — from first idea all the way to production.
+-  I ship full-stack web apps from first idea all the way to production.
 -  Love turning ideas into products people actually use.
 -  Visit my [Portfolio](https://ayesha-ramzan.vercel.app) for more details about me.
 <!--End Intro-->
