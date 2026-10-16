@@ -1,14 +1,45 @@
 <div align="center">
 
-<a href="https://ayesha-ramzan.vercel.app"><img src="assets/header.svg" alt="Ayesha Ramzan — AI Engineer & Full-Stack Developer" width="100%"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:C98A72,55:B98A9C,100:7A5C48&text=Ayesha%20Ramzan&fontColor=FFF6EF&fontSize=74&fontAlignY=40&desc=Building%20Agentic%20AI%2C%20One%20Product%20at%20a%20Time&descSize=20&descAlignY=60&animation=fadeIn" alt="Ayesha Ramzan" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=20&duration=3200&pause=900&color=C98A72&center=true&vCenter=true&width=640&lines=I+build+AI+agents+that+get+real+work+done;Chatbots+%C2%B7+WhatsApp+automation+%C2%B7+Web+apps;Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Next.js" alt="intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=C98A72&center=true&vCenter=true&width=640&lines=Building+Fast%2C+Smart%2C+Agentic+AI;Chatbots+%C2%B7+WhatsApp+Bots+%C2%B7+Web+Apps;From+Idea+to+Production" alt="typing intro"/>
+
+<p align="center">I'm <b>Ayesha Ramzan</b> — an AI Engineer &amp; Full-Stack Developer who turns ideas into products people actually use. My toolkit ranges from <b>React, Next.js and TypeScript</b> on the frontend to <b>Python, FastAPI and PostgreSQL</b> under the hood. Passionate about <b>agentic AI, LLM apps and WhatsApp automation</b>, I build assistants that don't just answer — they get real work done.</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayesha-ramzan-9632a83ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/ayesha5044"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:ayeshazubram@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://ayesha-ramzan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7A5C48?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+</div>
 
 <br>
 
-<img src="assets/about.svg" alt="About me" width="100%"/>
+<img align="right" width="34%" src="assets/avatar.png" alt="Illustrated portrait of Ayesha Ramzan"/>
 
-<br><br>
+<h2>ɪ'ᴍ ᴀʏᴇsʜᴀ!</h2>
+
+<i>AI Engineer · Full-Stack Developer · BSCS Student</i>
+
+<p>I design <b>agentic AI systems</b> — assistants that understand a request, decide the next step, call tools and finish the job — and wrap them in fast, clean full-stack products.</p>
+
+- Currently building **GTOS**, a workforce platform, at **Gobind Trades**
+- Building AI agents, chatbots and **WhatsApp automations** for real businesses
+- Shipping web apps with **React, Next.js, FastAPI and PostgreSQL**
+- Learning something new every day — currently multi-agent systems
+- Visit my [**portfolio**](https://ayesha-ramzan.vercel.app) for the full story
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Ayesha-Ramzan&label=Profile%20views&color=C98A72&style=for-the-badge" alt="Profile views"/></p>
+
+<br clear="right"/>
+
+<div align="center">
+
+<br>
 
 <img src="assets/h-stack.svg" alt="Tech stack & learning" width="100%"/>
 
@@ -42,6 +73,8 @@
 
 <img src="assets/stats.svg" alt="GitHub stats" width="410"/>&nbsp;<img src="assets/languages.svg" alt="Top languages" width="410"/>
 <a href="https://github.com/Ayesha-Ramzan?tab=repositories&amp;sort=updated"><img src="assets/latest.svg" alt="Latest project" width="410"/></a>&nbsp;<img src="https://streak-stats.demolab.com?user=Ayesha-Ramzan&hide_border=true&border_radius=22&background=FFFDF9&ring=C98A72&fire=C98A72&currStreakNum=3F3533&sideNums=3F3533&currStreakLabel=7A5C48&sideLabels=7A5C48&dates=8A7E74&stroke=EEE6DE&card_width=410" width="410" height="221" alt="Streak"/>
+
+<img src="https://github-repository-contribution-stat-green.vercel.app/api?username=Ayesha-Ramzan&hide_border=true&border_radius=22&bg_color=FFFDF9&title_color=3F3533&text_color=5C514D&icon_color=C98A72&combine_all_yearly_contributions=true&limit=4" height="160" alt="Top contributions"/>
 
 <br><br>
 
