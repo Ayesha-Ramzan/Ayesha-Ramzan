@@ -1,5 +1,14 @@
-<!--Banner-->
-![Ayesha-Ramzan Banner Image](./banner.png)
+<div align="center">
+
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D9FF,6a0dad,00D9FF&height=250&section=header&text=Ayesha%20Ramzan&fontSize=70&fontAlign=50&fontAlignY=40&desc=Architecting%20the%20Digital%20Future&descAlign=50&descAlignY=65&animation=twinkling" width="100%" />
+
+<!-- Animated Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Building+Fast%2C+Smart%2C+Beautiful;Designing+Futuristic+UIs+with+Precision;Engineering+High-Performance+Apps;Explaining+Code+to+Humans&center=true&vCenter=true&size=22" alt="Typing Effect" />
+</a>
+
+<br/>
 
 <!--Night Owl image-->
 <div>
