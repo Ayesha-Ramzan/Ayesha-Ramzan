@@ -1,128 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=210&color=0:F6D3C6,50:FBE7D6,100:EFD6EE&text=Ayesha%20Ramzan&fontColor=3F3533&fontSize=58&fontAlign=50&fontAlignY=42&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=18&descAlign=50&descAlignY=68&animation=fadeIn" alt="Ayesha Ramzan" width="100%"/>
+<a href="https://ayesha-ramzan.vercel.app"><img src="assets/header.svg" alt="Ayesha Ramzan — AI Engineer & Full-Stack Developer" width="100%"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=3200&pause=900&color=7A5C48&center=true&vCenter=true&width=620&lines=I+build+AI+agents+that+get+real+work+done;Chatbots+%E2%80%A2+WhatsApp+automation+%E2%80%A2+Web+apps;Python+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+Next.js" alt="typing intro"/>
-
-<p>
-  <a href="https://ayesha-ramzan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ayesha--ramzan.vercel.app-3F3533?style=for-the-badge&labelColor=C98A72" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/ayesha-ramzan-9632a83ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-3F3533?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C98A72" alt="LinkedIn"/></a>
-  <a href="mailto:ayeshazubram@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-3F3533?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C98A72" alt="Email"/></a>
-</p>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=20&duration=3200&pause=900&color=C98A72&center=true&vCenter=true&width=640&lines=I+build+AI+agents+that+get+real+work+done;Chatbots+%C2%B7+WhatsApp+automation+%C2%B7+Web+apps;Python+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+Next.js" alt="intro"/>
 
 <br>
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<img src="assets/about.svg" alt="About me" width="100%"/>
 
-### About me
+<br><br>
 
-I'm an **AI Engineer & Full-Stack Developer** from Lahore, Pakistan. I design **agentic AI systems** — assistants that understand a request, decide the next step, call tools and finish the job — and wrap them in fast, clean products people enjoy using.
-
-- Currently building **GTOS**, a workforce platform, at **Gobind Trades**
-- Focused on **AI agents, LLM apps and WhatsApp automation**
-- BSCS student, always shipping and always learning
-
-</td>
-<td width="42%" valign="top">
-
-### At a glance
-
-| | |
-|:--|:--|
-| **Role** | AI Engineer · Full-Stack |
-| **Based in** | Lahore, PK · Remote |
-| **Focus** | Agentic AI & LLM apps |
-| **Open to** | Projects & collaborations |
-
-</td>
-</tr>
-</table>
+<img src="assets/h-stack.svg" alt="Tech stack" width="100%"/>
 
 <br>
 
-### Tech stack
+<img src="https://skillicons.dev/icons?i=py,fastapi,flask,js,ts,react,nextjs,nodejs,tailwind&theme=light&perline=9" alt="languages and frameworks"/>
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,docker,git,github,vercel,linux,figma&theme=light&perline=9" alt="tools"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,js,ts,react,nextjs,nodejs,html,css,tailwind&theme=light&perline=11" alt="languages and frameworks"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,docker,git,github,vercel,linux,figma&theme=light&perline=11" alt="tools"/>
-</p>
+<br><br>
+
+<img src="assets/h-work.svg" alt="Featured work" width="100%"/>
 
 <br>
 
-### Featured work
+<a href="https://gtos-employee.srv1763060.hstgr.cloud/welcome"><img src="assets/p01.svg" alt="GTOS — Workforce Platform" width="410"/></a>&nbsp;<a href="https://github.com/Ayesha-Ramzan/Restaurant-WA-Order-Bot"><img src="assets/p02.svg" alt="WhatsApp Order Bot" width="410"/></a>
+<a href="https://github.com/Ayesha-Ramzan/Jarvis-AI-COO"><img src="assets/p03.svg" alt="JARVIS AI COO" width="410"/></a>&nbsp;<a href="https://github.com/Ayesha-Ramzan/J.A.R.V.I.S.-AI-Voice-Assistant"><img src="assets/p04.svg" alt="J.A.R.V.I.S. Assistant" width="410"/></a>
+<a href="https://mehfil-restaurant-lahore.vercel.app"><img src="assets/p05.svg" alt="Mehfil Restaurant" width="410"/></a>&nbsp;<a href="https://myproject-habit-tracker.vercel.app"><img src="assets/p06.svg" alt="Habit Tracker" width="410"/></a>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br><br>
 
-**[GTOS — Workforce Platform](https://gtos-employee.srv1763060.hstgr.cloud/welcome)**<br>
-<sub>Company project · Next.js · Fastify · PostgreSQL</sub><br>
-Employee PWA with GPS-geofenced clock-in, tasks and review flows — bilingual and end-to-end tested.
+<a href="https://ayesha-ramzan.vercel.app/work.html"><img src="https://img.shields.io/badge/See%20every%20project-on%20my%20portfolio%20%E2%86%92-3F3533?style=for-the-badge&labelColor=C98A72" alt="See every project"/></a>
 
-</td>
-<td width="50%" valign="top">
+<br><br><br>
 
-**[Restaurant WhatsApp Order Bot](https://github.com/Ayesha-Ramzan/Restaurant-WA-Order-Bot)**<br>
-<sub>Python · WhatsApp</sub><br>
-Customers browse the menu, order and choose Cash on Delivery or JazzCash — entirely over WhatsApp.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[JARVIS AI COO](https://github.com/Ayesha-Ramzan/Jarvis-AI-COO)**<br>
-<sub>FastAPI · PostgreSQL · Docker</sub><br>
-Multi-tenant backend for AI skills with tenant isolation at the database layer and 66 passing tests.
-
-</td>
-<td width="50%" valign="top">
-
-**[J.A.R.V.I.S. Voice Assistant](https://github.com/Ayesha-Ramzan/J.A.R.V.I.S.-AI-Voice-Assistant)**<br>
-<sub>Python · Wake word · LLM</sub><br>
-A privacy-first voice assistant that controls the system — apps, media, files, mail and WhatsApp.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Mehfil — Lahore Restaurant](https://mehfil-restaurant-lahore.vercel.app)**<br>
-<sub>React · TypeScript · TanStack Start</sub><br>
-An editorial restaurant site for slow-fired Lahori cooking, with menu, story and reservations.
-
-</td>
-<td width="50%" valign="top">
-
-**[Habit Tracker](https://myproject-habit-tracker.vercel.app)**<br>
-<sub>JavaScript · Chart.js</sub><br>
-Monthly check-off grid, streaks, time ranges and analytics charts — data stays in the browser.
-
-</td>
-</tr>
-</table>
-
-<p align="center"><a href="https://ayesha-ramzan.vercel.app/work.html"><b>See every project on my portfolio →</b></a></p>
+<img src="assets/h-activity.svg" alt="GitHub activity" width="100%"/>
 
 <br>
 
-### GitHub activity
+<img src="https://github-readme-stats.vercel.app/api?username=Ayesha-Ramzan&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=20&bg_color=FFFDF9&title_color=3F3533&text_color=5C514D&icon_color=C98A72&card_width=430" height="170" alt="GitHub stats"/>&nbsp;<img src="https://streak-stats.demolab.com?user=Ayesha-Ramzan&hide_border=true&border_radius=20&background=FFFDF9&ring=C98A72&fire=C98A72&currStreakNum=3F3533&sideNums=3F3533&currStreakLabel=7A5C48&sideLabels=7A5C48&dates=8A7E74&stroke=EEE6DE&card_width=430" height="170" alt="Streak"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayesha-Ramzan&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&bg_color=FFFDF8&title_color=3F3533&text_color=5C514D&icon_color=C98A72&ring_color=C98A72" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayesha-Ramzan&layout=compact&langs_count=6&hide_border=true&border_radius=14&bg_color=FFFDF8&title_color=3F3533&text_color=5C514D" height="165" alt="Top languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayesha-Ramzan&hide_border=true&border_radius=14&background=FFFDF8&ring=C98A72&fire=C98A72&currStreakNum=3F3533&sideNums=3F3533&currStreakLabel=7A5C48&sideLabels=7A5C48&dates=85796F&stroke=ECE7E1" height="165" alt="Streak"/>
-</div>
-
-<br>
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayesha-Ramzan/Ayesha-Ramzan/output/pacman-contribution-graph-dark.svg">
@@ -132,10 +50,6 @@ Monthly check-off grid, streaks, time ranges and analytics charts — data stays
 
 <br><br>
 
-<div align="center">
-
-<p><a href="https://ayesha-ramzan.vercel.app">Portfolio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/ayesha-ramzan-9632a83ba/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://x.com/ayesha5044">X</a> &nbsp;·&nbsp; <a href="https://www.instagram.com/ayesh_ramzan786/">Instagram</a> &nbsp;·&nbsp; <a href="https://www.facebook.com/people/AI-Yesha/pfbid02BV1wSxFjYRrLskmFwbQNG73hpmm4xTvjHymtCZyyy8QNDsV7nrQ33XX33j785wvwl/">Facebook</a></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:EFD6EE,50:FBE7D6,100:F6D3C6" alt="" width="100%"/>
+<a href="https://ayesha-ramzan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-3F3533?style=flat-square" alt="Portfolio"/></a> <a href="https://www.linkedin.com/in/ayesha-ramzan-9632a83ba/"><img src="https://img.shields.io/badge/LinkedIn-3F3533?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:ayeshazubram@gmail.com"><img src="https://img.shields.io/badge/Email-3F3533?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://x.com/ayesha5044"><img src="https://img.shields.io/badge/X-3F3533?style=flat-square&logo=x&logoColor=white" alt="X"/></a> <a href="https://www.instagram.com/ayesh_ramzan786/"><img src="https://img.shields.io/badge/Instagram-3F3533?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </div>
