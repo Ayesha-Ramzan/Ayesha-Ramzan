@@ -8,7 +8,7 @@ function updateQuote() {
     const cardDesign = `
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(author)}&quote=${encodeURIComponent(quote)}&theme=dark&bg_color=4E3A55&author_color=F4C2AE&accent_color=FCE3D6">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(author)}&quote=${encodeURIComponent(quote)}&theme=dark&bg_color=153955&author_color=F3B848&accent_color=F3CC74">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 `;
