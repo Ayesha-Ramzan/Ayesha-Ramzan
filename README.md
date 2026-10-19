@@ -146,7 +146,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Suzy%20Kassem&quote=Doubt%20kills%20more%20dreams%20than%20failure%20ever%20will.&theme=dark&bg_color=3F3533&author_color=E9B49C&accent_color=F6D3C6">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=You%20don't%20have%20to%20be%20great%20to%20start%2C%20but%20you%20have%20to%20start%20to%20be%20great.&theme=dark&bg_color=3F3533&author_color=E9B49C&accent_color=F6D3C6">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
