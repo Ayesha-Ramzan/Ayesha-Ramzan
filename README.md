@@ -146,7 +146,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Chris%20Grosser&quote=Opportunities%20don't%20happen.%20You%20create%20them.&theme=dark&bg_color=3F3533&author_color=E9B49C&accent_color=F6D3C6">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sheryl%20Sandberg&quote=Done%20is%20better%20than%20perfect.&theme=dark&bg_color=3F3533&author_color=E9B49C&accent_color=F6D3C6">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
