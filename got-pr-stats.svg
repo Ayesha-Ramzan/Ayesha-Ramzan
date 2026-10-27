@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="220" viewBox="0 0 640 220" role="img" aria-labelledby="title desc">
+  <title id="title">GOT project merged pull requests</title>
+  <desc id="desc">The merged pull request card will update automatically after the first GitHub Actions sync.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#2e2522"/><stop offset="1" stop-color="#5c4a43"/></linearGradient></defs>
+  <rect width="640" height="220" rx="16" fill="url(#bg)"/>
+  <text x="34" y="38" fill="#f6d3c6" font-family="Arial, sans-serif" font-size="18" font-weight="700">GOT PROJECT · MERGED PRs</text>
+  <text x="34" y="92" fill="#ffffff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Stats sync is ready</text>
+  <text x="34" y="124" fill="#d9c6bc" font-family="Arial, sans-serif" font-size="13">The card will show Ayesha&apos;s merged GOT PRs</text>
+  <text x="34" y="147" fill="#d9c6bc" font-family="Arial, sans-serif" font-size="13">after the GOT_REPO_TOKEN secret is added.</text>
+</svg>

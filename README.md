@@ -99,7 +99,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Ayesha-Ramzan">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Ayesha-Ramzan&count_private=true&show_icons=true&theme=nightowl&bg_color=35,2E2522,3F3533,5C4A43&title_color=F6D3C6&text_color=FFFFFF&icon_color=E9B49C&ring_color=E9B49C&border_radius=16&hide_border=true&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Ayesha-Ramzan&count_private=true&show_icons=true&theme=nightowl&bg_color=35,2E2522,3F3533,5C4A43&title_color=F6D3C6&text_color=FFFFFF&icon_color=E9B49C&ring_color=E9B49C&border_radius=16&hide_border=true&rank_icon=github&hide=prs,issues,contribs&show=reviews" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -126,6 +126,16 @@
       <p align="center">
         <a href="https://github.com/Ayesha-Ramzan">
           <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Ayesha-Ramzan&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=35,2E2522,3F3533,5C4A43&title_color=F6D3C6&text_color=FFFFFF&icon_color=E9B49C&hide_border=true&border_radius=16" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center"><strong>GOT PROJECT · MERGED PRs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/gobind-trades/Gobind-trades-Admin-dashboard-/pulls?q=is%3Apr+is%3Amerged+author%3AAyesha-Ramzan">
+          <img width="640" src="./got-pr-stats.svg" alt="Merged pull requests by Ayesha-Ramzan in the GOT project" />
         </a>
       </p>
     </td>
