@@ -146,7 +146,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=Do%20what%20you%20can%2C%20with%20what%20you%20have%2C%20where%20you%20are.&theme=dark&bg_color=3F3533&author_color=E9B49C&accent_color=F6D3C6">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Steve%20Jobs&quote=Your%20time%20is%20limited%2C%20so%20don't%20waste%20it%20living%20someone%20else's%20life.&theme=dark&bg_color=3F3533&author_color=E9B49C&accent_color=F6D3C6">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
