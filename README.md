@@ -146,7 +146,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Sheryl%20Sandberg&quote=Done%20is%20better%20than%20perfect.&theme=dark&bg_color=3F3533&author_color=E9B49C&accent_color=F6D3C6">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Francis%20Bacon&quote=Knowledge%20is%20power.&theme=dark&bg_color=3F3533&author_color=E9B49C&accent_color=F6D3C6">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
