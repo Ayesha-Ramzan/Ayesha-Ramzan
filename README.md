@@ -146,7 +146,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Leonardo%20da%20Vinci&quote=Learning%20never%20exhausts%20the%20mind.&theme=dark&bg_color=3F3533&author_color=E9B49C&accent_color=F6D3C6">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Benjamin%20Franklin&quote=Well%20done%20is%20better%20than%20well%20said.&theme=dark&bg_color=3F3533&author_color=E9B49C&accent_color=F6D3C6">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
